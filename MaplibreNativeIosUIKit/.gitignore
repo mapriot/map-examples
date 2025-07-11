@@ -1,0 +1,27 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+
+# Xcode workspace user settings
+*.xcworkspace/xcuserdata/
+
+# Other caches
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Swift Package Manager
+#
+.build/
+
+# CocoaPods
+#
+Pods/
+
+# Keys
+Keys.plist
